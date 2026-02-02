@@ -8,6 +8,10 @@
 
 </div>
 
+<p align="center">
+  <b>⭐ 点击 <a href="https://github.com/Pangu-Immortal/BlackDex">Star</a>，关注不迷路 ⭐</b>
+</p>
+
 **[English Version](README_EN.md)**
 
 ![](https://img.shields.io/badge/language-java-brightgreen.svg)
