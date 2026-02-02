@@ -1,11 +1,12 @@
 
+
+# BlackDex
+
 <div align="center">
 
 ![萌萌计数器](https://count.getloli.com/get/@BlackDex?theme=rule34)
 
 </div>
-
-# BlackDex
 
 **[English Version](README_EN.md)**
 
