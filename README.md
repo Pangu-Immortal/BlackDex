@@ -1,3 +1,5 @@
+![访客统计](https://count.getloli.com/get/@BlackDex?theme=rule34)
+
 # BlackDex
 
 **[English Version](README_EN.md)**
@@ -60,3 +62,19 @@ BlackDex下载：https://github.com/CodingGay/BlackDex/releases
 > See the License for the specific language governing permissions and
 > limitations under the License.
 > ```
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Pangu-Immortal/BlackDex&type=Date)](https://star-history.com/#Pangu-Immortal/BlackDex&Date)
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
